@@ -7,14 +7,17 @@ Este programa implementa un juego de damas simple en consola, permitiendo mover 
 
 
 Iniciamos el juego
+
 ![](https://github.com/AriusJoel1/JuegoDeDamas/blob/main/img/1.png)
 
 
 Si realizamos un movimiento no permitido nos saldra un mensaje de Movimiento inválido.
+
 ![](https://github.com/AriusJoel1/JuegoDeDamas/blob/main/img/2.png)
 
 
 Si realizamos un movimiento posible de la lista, seguira el turno del contrincante. 
+
 ![](https://github.com/AriusJoel1/JuegoDeDamas/blob/main/img/3.png)
 
 ## Tarea 2:
